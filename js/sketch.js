@@ -13,6 +13,8 @@ rect(100,100,20,20);
 fill(0,0,0);
 textAlign(CENTER, CENTER);
 text("dit is het midden", 100,100);
+  
+ellipse(10,10,10,10);  
 
 
 }
